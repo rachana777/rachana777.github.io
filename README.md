@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to my personal portfolio
 
-TODO: Document your project here
+Showcasing my skills, experience and projects as an aspiring Software QA Engineer.
