@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rachana777.github.io/rachana-poudel.github.io",
+  "homepage": "https://rachana777.github.io/rachana-poudel.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
