@@ -10,7 +10,7 @@ const experiences = [
     ],
   },
   {
-    role: "System & Network Administrator",
+    role: "System Administrator",
     company: "Vitality Solutions Inc., Toronto, ON",
     period: "Sept 2024 – Present",
     points: [
