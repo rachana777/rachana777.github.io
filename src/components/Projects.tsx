@@ -12,9 +12,15 @@ const projects = [
     github: "https://github.com/rachana777/Hotel-Booking-API-Manual-Testing",
   },
   {
-    title: "Manual Testing Projects",
+    title: "Ecommerce Manual Testing",
     tech: "Excel, Test Case Design",
     description: "Designed and executed test cases, documented defects, and created traceability matrices for multiple web applications.",
+    github: "https://github.com/rachana777/Ecommerce_Manual_Testing01",
+  },
+  {
+    title: "Banking Application Manual Testing",
+    tech: "Excel, Test Case Design",
+    description: "Designed and executed test cases for different modules like account management and fund transfer, documented defects, and created traceability matrices for multiple web applications.",
     github: "https://github.com/rachana777/Ecommerce_Manual_Testing01",
   },
 ];
