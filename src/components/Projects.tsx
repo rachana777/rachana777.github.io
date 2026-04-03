@@ -1,9 +1,9 @@
 const projects = [
   {
-    title: "Selenium Automation Project",
-    tech: "Selenium, Java",
-    description: "Built automated test suites using Selenium WebDriver with Page Object Model pattern and TestNG framework for web application testing.",
-    github: "https://github.com/rachana777/SeleniumPro",
+    title: "Data driven login page test cases",
+    tech: "Selenium, Testng, Maven, Apache POI",
+    description: "Automated login test cases executed using Selenium WebDriver with Page Object Model pattern and TestNG framework for Zoho website.",
+    github: "https://github.com/rachana777/Selenium-Testng_LoginTest",
   },
   {
     title: "Hotel Booking API Testing",
