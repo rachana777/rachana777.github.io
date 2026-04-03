@@ -1,6 +1,6 @@
 const projects = [
   {
-    title: "Data driven login page test cases",
+    title: "Selenium Automation",
     tech: "Selenium, Testng, Maven, Apache POI",
     description: "Automated login test cases executed using Selenium WebDriver with Page Object Model pattern and TestNG framework for Zoho website.",
     github: "https://github.com/rachana777/Selenium-Testng_LoginTest",
