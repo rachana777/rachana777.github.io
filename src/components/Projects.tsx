@@ -2,14 +2,8 @@ const projects = [
   {
     title: "Selenium Automation",
     tech: "Selenium, Testng, Maven, Apache POI",
-    description: "Automated login test cases executed using Selenium WebDriver with Page Object Model pattern and TestNG framework for Zoho website.",
+    description: "Automated login test cases for Zoho website using Selenium WebDriver and TestNG framework.",
     github: "https://github.com/rachana777/Selenium-Testng_LoginTest",
-  },
-  {
-    title: "Hotel Booking API Testing",
-    tech: "Postman",
-    description: "Performed comprehensive API testing on a hotel booking system, validating endpoints, request/response schemas, and error handling scenarios.",
-    github: "https://github.com/rachana777/Hotel-Booking-API-Manual-Testing",
   },
   {
     title: "Ecommerce Manual Testing",
@@ -17,6 +11,13 @@ const projects = [
     description: "Designed and executed test cases, documented defects, and created traceability matrices for multiple web applications.",
     github: "https://github.com/rachana777/Ecommerce_Manual_Testing01",
   },
+  {
+    title: "Hotel Booking API Testing",
+    tech: "Postman",
+    description: "Performed comprehensive API testing on a hotel booking system, validating endpoints, request/response schemas, and error handling scenarios.",
+    github: "https://github.com/rachana777/Hotel-Booking-API-Manual-Testing",
+  },
+
   {
     title: "Banking Application Manual Testing",
     tech: "Excel, Test Case Design",
