@@ -45,7 +45,7 @@ const experiences = [
     period: "Jan 2019 – July 2020",
     points: [
       "Provided technical support to corporate clients, troubleshooting network and connectivity issues.",
-      "Collaborated with infrastructure teams to resolve escalated technical problems and improve service relaibility.",
+      "Collaborated with infrastructure teams to resolve escalated technical problems and improve service reliability.",
       "Monitored systems using Nagios monitoring tool,generated and visualized performance reports.",
     ],
   },
