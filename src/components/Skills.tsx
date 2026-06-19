@@ -1,5 +1,7 @@
+import { title } from "process";
+
 const skillGroups = [
-  {
+  /*{
     title: "Testing & QA",
     items: ["Manual Testing", "Functional & Regression Testing", "Exploratory Testing", "Defect Reporting"],
   },
@@ -20,9 +22,31 @@ const skillGroups = [
     items: ["Clio", "PCLaw", "iManage", "Citrix Accuro EMR"],
   },
   {
+  
+  },*/
+
+  {
+    title: "Tech Support & Saas Troubleshooting",
+    items: ["Root Cause Analysis", "Technical Troubleshooting", "Incident Management", "Bug Reproduction", "SaaS Application Support", "SLA Management", "KnowledgeBase Documentation"],
+
+  },
+  {
+    title: "Cloud & Enterprise Applications",
+    items: ["Microsoft 365", "Exchange Online", "Google Workspace", "Sharepoint", "Third part apps"],
+  },
+
+  {
+    title: "Testing & Automation",
+    items: ["Postman API", "Regression Testing", "Defect Reporting", "Exploratory Testing"]
+  },
+  {
+    title: "Techincal Foundations & Tools",
+    items: ["DNS", "TCP/IP", "Authentication", "Email Delivery(SPF,DKIM,DMARC)", "Jira", "Halo PSA", "Hudu"]
+  },
+  {
     title: "Soft Skills",
     items: ["Collaboration", "Research", "Problem-Solving", "Documentation"],
-  },
+  }
 ];
 
 const Skills = () => (

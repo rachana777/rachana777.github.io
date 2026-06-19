@@ -4,9 +4,9 @@ const experiences = [
     company: "Digivante, Remote",
     period: "Nov 2025 – Present",
     points: [
-      "Tested web and mobile applications from an end user perspective in crowdtesting projects.",
-      "Reported defects with clear steps, screenshots, and expected vs actual results.",
-      "Performed exploratory testing to identify usability and functional issues.",
+      "Tested web and mobile applications to identify functional, usability, and customer-impacting issues.",
+      "Reported software defects and documented clear steps, expected behavior, actual results and supporting evidences.",
+      "Performed exploratory testing to uncover edge cases.",
     ],
   },
   {
@@ -14,12 +14,16 @@ const experiences = [
     company: "Vitality Solutions Inc., Toronto, ON",
     period: "Sept 2024 – Present",
     points: [
-      "Managed Microsoft 365 services(ExchangeOnline, Sharepoint, Entra ID, Intune) including users, groups, device compliance, conditional access and Apple MDM.",
-      "Troubleshoot and support third-party applications including iManage, Clio, PCLaw,and Citrix Accuro EMR.",
-      "Assist in testing system changes, updates, patches, and deployments, validating functionality before and after implementation.",
-      "Analyze and troubleshoot client-reported issues, identify root causes, and implement effective fixes, coordinating with teams for escalations when required.",
-      "Track, prioritize and resolve incidents using Syncro PSA while maintaining SLA compliance.",
-      "Document issues, troubleshooting steps, and resolutions in Hudu to support future knowledge sharing.",
+      "Manage Microsoft 365 and Exchange environments including mailbox configuration, mail flow rules, distribution groups, outlook and other office apps connectivity troubleshooting for end users. ",
+      "Administer Google workspace at the admin level- user provisioning/deprovisioning, email delivery troubleshooting(SPF,DKIM, DMARC), and third party app integrations.",
+      "Configure and maintain Microsoft Entra ID for identity management, MFA rollout and conditional access policies to strengthen organizational security.",
+      "Deploy and manage Microsoft Intune for device enrollment, MDM/MAM policy configuration and endpoint compliance across pc and mobile devices.",
+      "Administer Avanan email security platform-investigating phishing alerts,quarantine management and configuring email filtering policies.",
+      "Provided technical support for SaaS and enterprise applications including Clio, iManage, Pclaw,Citrix and Accuro EMR.",
+      "Using Halo PSA to manage client tickets:triage, documentation,escalation,and resolution tracking-maintaining detailed records that enable trend analysis and knowledge base distributions.",
+      "Proactively identifying recurring issues patterns across tickets to flag systematic problems and drive process improvements, reducing repeat incidents.",
+      "Communicate technical issues and resolutions clearly to technical and non-technical users consistently receiving positive client feedback.",
+
     ],
   },
   {
@@ -28,7 +32,7 @@ const experiences = [
     period: "Sept 2022 – Sept 2023",
     points: [
       "Managed user accounts, security groups, permissions, and system access using Active Directory and Microsoft Exchange.",
-      "Administered and supported college-owned Moodle LMS and organized lab environments for faculty and students.",
+      "Provided technical support for faculty, staff and students by troubleshooting software, application access and hardware issues.",
       "Developed a Power Apps solution to streamline lab routine checks, improving efficiency and reducing manual tracking.",
       "Automated workflows using Power Automate integrating with Outlook,Teams, Sharepoint and Forms for efficiency.",
       "Resolved service desk tickets, ensuring SLA compliance and documenting solutions.",
@@ -41,8 +45,7 @@ const experiences = [
     period: "Jan 2019 – July 2020",
     points: [
       "Provided technical support to corporate clients, troubleshooting network and connectivity issues.",
-      "Collaborated with senior infrastructure teams to configure and troubleshoot routers, switches and wifi access points.",
-      "Demonstrated strong problem-solving and research skills to identify and resolve technical issues.",
+      "Collaborated with infrastructure teams to resolve escalated technical problems and improve service relaibility.",
       "Monitored systems using Nagios monitoring tool,generated and visualized performance reports.",
     ],
   },

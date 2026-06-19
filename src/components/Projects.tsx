@@ -1,29 +1,30 @@
 const projects = [
   {
+    title: "Hotel Booking API Testing",
+    tech: "Postman",
+    description: "Performed comprehensive API testing on a hotel booking system, validating endpoints, request/response schemas, and error handling scenarios.",
+    github: "https://github.com/rachana777/Hotel-Booking-API-Manual-Testing",
+  },
+  {
     title: "Selenium Automation",
     tech: "Selenium, Testng, Maven, Apache POI",
     description: "Automated login test cases for Zoho website using Selenium WebDriver and TestNG framework.",
     github: "https://github.com/rachana777/Selenium-Testng_LoginTest",
   },
   {
-    title: "Ecommerce Manual Testing",
+    title: "Ecommerce Website esting",
     tech: "Excel, Test Case Design",
     description: "Designed and executed test cases, documented defects, and created traceability matrices for multiple web applications.",
     github: "https://github.com/rachana777/Ecommerce_Manual_Testing01",
   },
-  {
-    title: "Hotel Booking API Testing",
-    tech: "Postman",
-    description: "Performed comprehensive API testing on a hotel booking system, validating endpoints, request/response schemas, and error handling scenarios.",
-    github: "https://github.com/rachana777/Hotel-Booking-API-Manual-Testing",
-  },
 
-  {
-    title: "Banking Application Manual Testing",
+
+  /*{
+    title: "Banking Application Testing",
     tech: "Excel, Test Case Design",
     description: "Designed and executed test cases for different modules like account management and fund transfer, documented defects, and created traceability matrices for multiple web applications.",
     github: "https://github.com/rachana777/Ecommerce_Manual_Testing01",
-  },
+  },*/
 ];
 
 const Projects = () => (
