@@ -11,7 +11,7 @@ const Hero = () => (
         </h1>
         <div className="editorial-divider" />
         <p className="text-lg text-muted-foreground font-sans font-normal leading-relaxed max-w-md">
-          Bringing a quality-focused mindset to support by combining troubleshooting expertise with software testing practices.
+          Bringing a quality-focused mindset to support by combining troubleshooting expertise with testing practices.
         </p>
         <div className="flex gap-4 pt-2">
           <a href="#contact" onClick={(e) => { e.preventDefault(); document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" }); }} className="inline-flex items-center px-6 py-3 bg-primary text-primary-foreground rounded-md font-sans text-sm font-medium hover:bg-primary/90 transition-colors">
