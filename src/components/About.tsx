@@ -7,7 +7,7 @@ const About = () => (
         <div className="editorial-divider" />
       </div>
       <p className="text-lg text-muted-foreground font-sans font-normal leading-relaxed">
-        System Administartor & Tech Support with 3+ years of experience with strong background supporting business-critical applications, email platforms, user integrations and cloud services in MSP and corporate environments.
+        System Administrator & Tech Support with 3+ years of experience with strong background supporting business-critical applications, email platforms, user integrations and cloud services in MSP and corporate environments.
         Skilled in troubleshooting complex technical issues,performing root cause analysis, documenting solutions and collaborating with the cross-functional teams to improve customer outcomes.
         Alongside, I'm actively building skills in testing automation skills to bring quality-focused approach to issue investigation and product improvement.This combination allows me to approach technical issues
         from both a systems and product-quality perspective by identifying patterns, reproducing defects and providing actionable insights to resolve customer-impacting problems.
