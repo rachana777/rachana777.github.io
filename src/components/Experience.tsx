@@ -19,9 +19,9 @@ const experiences = [
       "Configure and maintain Microsoft Entra ID for identity management, MFA rollout and conditional access policies to strengthen organizational security.",
       "Deploy and manage Microsoft Intune for device enrollment, MDM/MAM policy configuration and endpoint compliance across pc and mobile devices.",
       "Administer Avanan email security platform-investigating phishing alerts,quarantine management and configuring email filtering policies.",
-      "Provided technical support for SaaS and enterprise applications including Clio, iManage, Pclaw,Citrix and Accuro EMR.",
+      "Provide technical support for SaaS and enterprise applications including Clio, iManage, Pclaw,Citrix and Accuro EMR.",
       "Using Halo PSA to manage client tickets:triage, documentation,escalation,and resolution tracking-maintaining detailed records that enable trend analysis and knowledge base distributions.",
-      "Proactively identifying recurring issues patterns across tickets to flag systematic problems and drive process improvements, reducing repeat incidents.",
+      "Proactively identify recurring issues patterns across tickets to flag systematic problems and drive process improvements, reducing repeat incidents.",
       "Communicate technical issues and resolutions clearly to technical and non-technical users consistently receiving positive client feedback.",
 
     ],
