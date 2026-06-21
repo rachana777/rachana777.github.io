@@ -6,7 +6,7 @@ const About = () => (
         <h2 className="text-3xl md:text-4xl font-serif font-bold text-foreground">Summary</h2>
         <div className="editorial-divider" />
       </div>
-      <p className="text-lg text-muted-foreground font-sans font-normal leading-relaxed">
+      <p className="text-lg text-muted-foreground font-sans font-normal leading-relaxed text-justify">
         System Administrator & Tech Support with 3+ years of experience with strong background supporting business-critical applications, email platforms, user integrations and cloud services in MSP and corporate environments.
         Skilled in troubleshooting complex technical issues,performing root cause analysis, documenting solutions and collaborating with the cross-functional teams to improve customer outcomes.
         Alongside, I'm actively building skills in testing automation skills to bring quality-focused approach to issue investigation and product improvement.This combination allows me to approach technical issues
