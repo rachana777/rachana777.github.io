@@ -36,7 +36,7 @@ const skillGroups = [
   },
 
   {
-    title: "Testing & Automation",
+    title: "Quality & Testing",
     items: ["Postman API", "Regression Testing", "Defect Reporting", "Exploratory Testing"]
   },
   {
