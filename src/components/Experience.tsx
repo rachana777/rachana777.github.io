@@ -1,15 +1,5 @@
 const experiences = [
-  {
-    role: "Freelance QA Tester",
-    company: "Digivante, Remote",
-    period: "Nov 2025 – Present",
-    points: [
-      "Performed exploratory testing to uncover edge cases.",
-      "Tested web and mobile applications to identify functional, usability, and customer-impacting issues.",
-      "Reported software defects and documented clear steps, expected behavior, actual results and supporting evidences.",
 
-    ],
-  },
   {
     role: "System Administrator",
     company: "Vitality Solutions Inc., Toronto, ON",
@@ -24,6 +14,17 @@ const experiences = [
       "Using Halo PSA to manage client tickets:triage, documentation,escalation,and resolution tracking-maintaining detailed records that enable trend analysis and knowledge base distributions.",
       "Proactively identify recurring issues patterns across tickets to flag systematic problems and drive process improvements, reducing repeat incidents.",
       "Communicate technical issues and resolutions clearly to technical and non-technical users consistently receiving positive client feedback.",
+
+    ],
+  },
+  {
+    role: "Freelance QA Tester",
+    company: "Digivante, Remote",
+    period: "Nov 2025 – Present",
+    points: [
+      "Performed exploratory testing to uncover edge cases.",
+      "Tested web and mobile applications to identify functional, usability, and customer-impacting issues.",
+      "Reported software defects and documented clear steps, expected behavior, actual results and supporting evidences.",
 
     ],
   },
