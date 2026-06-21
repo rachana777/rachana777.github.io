@@ -1,7 +1,7 @@
 const experiences = [
 
   {
-    role: "System Administrator",
+    role: "System Administrator & Tech Support",
     company: "Vitality Solutions Inc., Toronto, ON",
     period: "Sept 2024 – Present",
     points: [
