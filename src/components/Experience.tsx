@@ -4,9 +4,10 @@ const experiences = [
     company: "Digivante, Remote",
     period: "Nov 2025 – Present",
     points: [
+      "Performed exploratory testing to uncover edge cases.",
       "Tested web and mobile applications to identify functional, usability, and customer-impacting issues.",
       "Reported software defects and documented clear steps, expected behavior, actual results and supporting evidences.",
-      "Performed exploratory testing to uncover edge cases.",
+
     ],
   },
   {
@@ -32,11 +33,12 @@ const experiences = [
     period: "Sept 2022 – Sept 2023",
     points: [
       "Managed user accounts, security groups, permissions, and system access using Active Directory and Microsoft Exchange.",
-      "Provided technical support for faculty, staff and students by troubleshooting software, application access and hardware issues.",
-      "Developed a Power Apps solution to streamline lab routine checks, improving efficiency and reducing manual tracking.",
-      "Automated workflows using Power Automate integrating with Outlook,Teams, Sharepoint and Forms for efficiency.",
       "Resolved service desk tickets, ensuring SLA compliance and documenting solutions.",
       "Collaborated with cross-functional teams to analyze recurring issues, research solutions and implement fixes.",
+      "Automated workflows using Power Automate integrating with Outlook,Teams, Sharepoint and Forms for efficiency.",
+      "Developed a Power Apps solution to streamline lab routine checks, improving efficiency and reducing manual tracking.",
+      "Provided technical support for faculty, staff and students by troubleshooting software, application access and hardware issues.",
+
     ],
   },
   {
@@ -45,8 +47,9 @@ const experiences = [
     period: "Jan 2019 – July 2020",
     points: [
       "Provided technical support to corporate clients, troubleshooting network and connectivity issues.",
-      "Collaborated with infrastructure teams to resolve escalated technical problems and improve service reliability.",
       "Monitored systems using Nagios monitoring tool,generated and visualized performance reports.",
+      "Collaborated with infrastructure teams to resolve escalated technical problems and improve service reliability.",
+
     ],
   },
 ];
@@ -68,7 +71,7 @@ const Experience = () => (
             <p className="text-base text-muted-foreground font-sans mb-4">{company}</p>
             <ul className="space-y-2">
               {points.map((point, j) => (
-                <li key={j} className="text-sm text-muted-foreground font-sans font-medium leading-relaxed flex gap-2">
+                <li key={j} className="text-sm text-muted-foreground font-sans font-medium leading-relaxed flex gap-2 text-justify">
                   <span className="text-primary mt-1 shrink-0">•</span>
                   {point}
                 </li>
