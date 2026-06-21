@@ -6,17 +6,18 @@ const projects = [
     github: "https://github.com/rachana777/Hotel-Booking-API-Manual-Testing",
   },
   {
-    title: "Selenium Automation",
-    tech: "Selenium, Testng, Maven, Apache POI",
-    description: "Automated login test cases for Zoho website using Selenium WebDriver and TestNG framework.",
-    github: "https://github.com/rachana777/Selenium-Testng_LoginTest",
-  },
-  {
-    title: "Ecommerce Website esting",
+    title: "Ecommerce Website Testing",
     tech: "Excel, Test Case Design",
-    description: "Designed and executed test cases, documented defects, and created traceability matrices for multiple web applications.",
+    description: "Designed and executed test cases, documented defects, and created traceability matrices for ecommerce web application.",
     github: "https://github.com/rachana777/Ecommerce_Manual_Testing01",
   },
+  {
+    title: "Selenium Login Automation",
+    tech: "Selenium, Testng, Maven, Apache POI",
+    description: "Automated login test coverage for a web application using Selenium WebDriver and TestNG. Useful context for understanding how front-end automation works — and where it breaks — when investigating client-reported UI issues.",
+    github: "https://github.com/rachana777/Selenium-Testng_LoginTest",
+  },
+
 
 
   /*{
